@@ -64,6 +64,9 @@ do not :
         pack > pacq / pacc
         pack > pacq / pacc
         hack > hacq / hacci
+do not :
+    allow beginning and end to be same letter
+        cook > kook
         
 examples of bad results from <4 letters :
     elk > elq / elc  
@@ -72,6 +75,24 @@ examples of bad results from <4 letters :
     wok > woq / woc  
     oak > oaq / oac  
     yak > yac / yaq 
+```
+
+### replace 'c' with 'k' in the beginning or end
+
+```text
+    cozy > kozy  
+    cool > kool  
+    schizophrenic > schizophrenik  
+    complex > komplex 
+    
+
+    do not :
+    allow beginning and end to be same letter
+        cook > kook
+        
+    choose > khoose X (no ch) NO 
+     
+    czar > kzar X (no cz) NO  
 ```
 
 ### replace mid 'c' &gt; 'k'
@@ -110,19 +131,6 @@ if word contains 'ch + r/y/l' at beginning
 if word contains 'a,i,e,o,u-ch' then do not replace 'ch>k'
     no:
     gazpacho > gazpakho  
-```
-
-### replace 'c' with 'k' in the beginning or end
-
-```text
-    cozy > kozy  
-    cook > kook  
-    cool > kool  
-    schizophrenic > schizophrenik  
-    complex > komplex  
-
-    choose > khoose X (no ch) NO  
-    czar > kzar X (no cz) NO  
 ```
 
 ### replace 'why' with 'y'
