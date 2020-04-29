@@ -19,17 +19,18 @@ unless word ends in 'rer'
     darer > darr  
 ```
 
-### 'ket' &gt; 't' \(at least 6 letters total needed - 4 LETTER ROOT required\)
+### 'ket' &gt; 't' 
 
 ```text
-tick(et) tickt  
-crick(et) crickt  
-rock(et) rockt  
-jack(et) jackt  
-
-pock(et) pockt  
-pack(et) packt  
-mark(et) markt  
+if word contains at least 6 letters with 4 letter then 'ket > t' end
+    tick(et) tickt  
+    crick(et) crickt  
+    rock(et) rockt  
+    jack(et) jackt  
+    
+    pock(et) pockt  
+    pack(et) packt  
+    mark(et) markt  
 ```
 
 ### get rid of middle vowels, if has 4+ consonants
