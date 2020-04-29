@@ -4,28 +4,6 @@ description: '(ism, ist, ion, ly, er)'
 
 # 4/5/6/7 letter root, add suffix
 
-## 
-
-### if ROOT ends in one consonant: \(t, p, n are safe endings for longer words\)
-
-```text
-noun(ology)  
-export(ology)  
-lip(ology)  
-soul(ology)  
-inert(ology)  
-tarp(ology)  
-crab(ology)  
-
-
-
-zoned(ology) X NO (ed) - get rid of the ed and then  
-add ology = zonology - this is finding the root I guess  
-
-sized > sizology  
-vexed > vexology  
-```
-
 ### replace ending "ce" with "t" -
 
 ~ words have to end with ence
