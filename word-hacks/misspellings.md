@@ -13,7 +13,7 @@ yeti > yetee > yetie > yety
 ### c/k/q swap ends    
 
 ```text
-if word ends in...
+if word is 4+ letters and ends in...
 
 c > k (if word is > 3 letters then apply c>k rule)  
     disc > disk  
@@ -52,61 +52,64 @@ c > q
     
 if word ends in...then do not...
 
-do not...
+do not :
     k > c
         book > booc
         look > looc
         took > tooc
         hook > hooc
-do not...
+do not :
     'ck' > cq
         attack > attacq / attacc
         pack > pacq / pacc
         pack > pacq / pacc
         hack > hacq / hacci
-```
-
-
-
-```text
-if word < 4 letters then do not transform
-    examples of bad results :
+        
+examples of bad results from <4 letters :
     elk > elq / elc  
     irk > irq / irc  
     ask > asq / asc  
     wok > woq / woc  
     oak > oaq / oac  
-    yak > yac / yaq  
+    yak > yac / yaq 
 ```
 
-### \# replace 'c' with 'k'
+### replace mid 'c' &gt; 'k'
 
 ```text
-must be in the middle and not beginning (NO: cow > kow)  
-    if word contains 'ck' or 'ci' then do not switch out 'c > k'
-        back > bakk - NO
-        exorcize > exorkize - NO (no ci)
+if word contains middle 'c > k'
+        yes:
+        faction > faktion
+        section > sektion
+        psycho > psyko
+        buzzcut > buzzkut
+        jacuzzis > jakuzzis 
         
-        faction > faktion - YES
-        section > sektion - YES
-        psycho > psyko - YES
-        buzzcut > buzzkut - YES
-        jacuzzis > jakuzzis - YES
+~ if word contains 'ck' or 'ci' then do not switch out 'c > k'
+~ 'c' must be in the middle and not beginning  
+        no:
+        cow > kow
+        back > bakk 
+        exorcize > exorkize
         
 ```
 
-### replace 'ch' &gt; k \(no a,i,e,o,u - ch\)
+### replace 'ch' &gt; k   
 
 ```text
+if word of 5+ letters contains mid 'ch' then 'ch>k'
     psychology > psykology  
     zuchinni > zukinni  
-    anarchy > anarky  
-
+    anarchy > anarky
+      
+if word contains 'ch + r/y/l' at beginning
     chrome > krome (ch + r > k)  
     chymotrypsin > kymotripsin (ch + y > k)  
     chlorine > klorine (ch + l > k)  
-
-    gazpacho > gazpakho - NO  
+    
+if word contains 'a,i,e,o,u-ch' then do not replace 'ch>k'
+    no:
+    gazpacho > gazpakho  
 ```
 
 ### replace 'c' with 'k' in the beginning or end
