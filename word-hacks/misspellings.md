@@ -1,4 +1,4 @@
-# misspellings
+# Replacements&Mispellings
 
 ### ending y/ie/ee/i
 
@@ -10,70 +10,63 @@ zany > zanee > zanie > zani
 yeti > yetee > yetie > yety 
 ```
 
-### beginning or ending, c/k/q
+### c/k/q swap ends    
 
 ```text
-cube > qube  
-book > booq  
-rook > rooq  
-cube > kube / qube  
-cubic > kubik / qubiq  
-cook > cooq /  cooc  
-hack > hacq /  hacc  
-bark > barc /  barq  
-honk > honc /  honq  
-dork > dorq /  dorc  
-bark > barc / barq  
+if word ends in...
 
 c > k (if word is > 3 letters then apply c>k rule)  
-disc > disk  
-sync > synk  
-zinc > zink  
-epic > epik  
-ionic > ionik  
-lyric > lyrik  
-mimic > mimik  
-relic > relik  
-ionic > ionik  
+    disc > disk  
+    sync > synk  
+    zinc > zink  
+    epic > epik  
+    ionic > ionik  
+    lyric > lyrik  
+    mimic > mimik  
+    relic > relik  
+    ionic > ionik  
 
 k > q  
-bulk > bulq  
-fork > forq  
-folk > folq  
-gunk > gunq  
-hawk > hawq  
-honk > honq  
-desk > desq  
-cork > corq  
+    bulk > bulq  
+    fork > forq  
+    folk > folq  
+    gunk > gunq  
+    hawk > hawq  
+    honk > honq  
+    desk > desq  
+    cork > corq  
 
 c > q  
 
-chic > chiq  
-zinc > zinq  
-cubic > cubiq  
-ethic > ethiq  
-basic > basiq  
-optic > optiq  
-acrylic > acrylik  
-bombastic > bombastik  
-allopathic > allopathik  
+    chic > chiq  
+    zinc > zinq  
+    cubic > cubiq  
+    ethic > ethiq  
+    basic > basiq  
+    optic > optiq  
+    acrylic > acrylik  
+    bombastic > bombastik  
+    allopathic > allopathik  
+    
+~~
+    
+if word ends in...then do not...
+
+do not...
+    k > c
+        book > booc
+        look > looc
+        took > tooc
+        hook > hooc
+do not...
+    'ck' > cq
+        attack > attacq / attacc
+        pack > pacq / pacc
+        pack > pacq / pacc
+        hack > hacq / hacci
 ```
 
-do not...K&gt;C
 
-k &gt; c  
-book &gt; booc  
-look &gt; looc  
-took &gt; tooc  
-hook &gt; hooc
-
-_Use words that do not have c/k/q next to each other like below_
-
-  
-attack &gt; attacq / attacc  
-pack &gt; pacq / pacc  
-pack &gt; pacq / pacc  
-hack &gt; hacq / hacc_i_
 
 ```text
 if word < 4 letters then do not transform
