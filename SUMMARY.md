@@ -18,7 +18,6 @@
 * [Add Words!](word-hacks/make-fun-suffix.md)
 * [misspellings](word-hacks/misspellings.md)
 * [remove vowels](word-hacks/remove-vowels.md)
-* [4/5/6/7 letter root, add suffix](word-hacks/4-5-6-7-letter-root-add-suffix.md)
 * [3/4 letter "root", add suffix](word-hacks/3-4-letter-root-add-suffix.md)
 * [append](word-hacks/append.md)
 * [prepend](word-hacks/prepend.md)
@@ -26,7 +25,7 @@
 
 ## WorkHackEndings
 
-* [WordHack TestList](workhackendings/wordhack-testlist.md)
 * [Completed WordHacks : Endings](workhackendings/completed-wordhacks.md)
+* [WordHack TestList](workhackendings/wordhack-testlist.md)
 * [All The Endings](workhackendings/untitled.md)
 
