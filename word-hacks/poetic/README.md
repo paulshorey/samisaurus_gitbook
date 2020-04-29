@@ -1,6 +1,6 @@
 # Poetic
 
-## Reduplications 
+### Reduplications 
 
 ```text
 If there are three words then the order has to go I, A, O. 
@@ -51,7 +51,14 @@ if word ends in 'oo','oom' or 'om','ho','um' and is one syllable, then repeat it
    bum+bum
    chum+chum
    roo+roo
-    
+```
+
+### word rhymes
+
+```text
+if words rhyme and have same syllable count (shorter is best)
+    cool+pool
+    curly+whirly
 ```
 
 
