@@ -22,7 +22,7 @@ unless word ends in 'rer'
 ### 'ket' &gt; 't' 
 
 ```text
-if word contains at least 6 letters with 4 letter then 'ket > t' end
+if word contains 6+ with 4 letter root then 'ket > t' at end
     tick(et) tickt  
     crick(et) crickt  
     rock(et) rockt  
@@ -42,5 +42,5 @@ alligator > allgtr
 apostrophe > apstrphy  
 ```
 
-## 
+
 
