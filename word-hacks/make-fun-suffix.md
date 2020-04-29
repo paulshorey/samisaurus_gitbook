@@ -124,7 +124,7 @@ lovely+hat (s)
 pretty+cake(s)
 ```
 
-## name of person
+## name adds
 
 ```text
     paul + is here.com
