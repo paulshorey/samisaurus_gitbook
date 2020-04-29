@@ -1732,5 +1732,44 @@ if word ends in consonant-ic then > consonant-o
     aero(bic) > ae(ro)
 ```
 
-## 
+## ology
+
+```text
+YES
+    t,p,n,b,i,l,k,m,n,o,p,u,v,w,x
+
+
+one syllable
+    c,d,e,f,g,j,q,r,s
+
+eg;
+
+noun(ology)
+export(ology)
+lip(ology)
+soul(ology)
+inert(ology)
+tarp(ology)
+crab(ology)
+squid(ology)
+
+
+O
+    if ends in 'o' just append 'logy'
+
+        duo+logy - yes
+
+    if ends in 'lo' do not append 'ology'
+
+         jello+logy - no
+Y
+    if ends in 'y' then do not append 'ology'
+
+
+zoned(ology) X NO (ed) - get rid of the ed and then
+add ology = zonology - this is finding the root I guess
+
+sized > sizology
+vexed > vexology
+```
 
