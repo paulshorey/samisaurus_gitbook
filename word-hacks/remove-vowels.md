@@ -1,22 +1,25 @@
 # remove vowels
 
-### "er" &gt; "r" \(at least 4 letters needed in words\)
+### 'er' &gt;  'r'
 
 ```text
-maker > makr  
-builder > buildr  
-lover > lovr  
-beaker > beakr  
-baller > ballr  
-answer > answr  
+if word is > 3 letters then drop the 'e' from 'er' 
+unless word ends in 'rer'
 
-----doesnt work when has a second r in it---  
-courier > courir  
-curer > curr  
-darer > darr  
+    maker > makr  
+    builder > buildr  
+    lover > lovr  
+    beaker > beakr  
+    baller > ballr  
+    answer > answr  
+
+    no:
+    courier > courir  
+    curer > curr  
+    darer > darr  
 ```
 
-### "ket" &gt; "t" \(at least 6 letters total needed - 4 LETTER ROOT required\)
+### 'ket' &gt; 't' \(at least 6 letters total needed - 4 LETTER ROOT required\)
 
 ```text
 tick(et) tickt  
