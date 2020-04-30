@@ -77,9 +77,10 @@ examples of bad results from <4 letters :
     yak > yac / yaq 
 ```
 
-### replace 'c' with 'k' in the beginning or end
+### 'c &gt; k' in the beginning
 
 ```text
+if word is 4+ letters and begins with 'c' then 'c>k'
     cozy > kozy  
     cool > kool  
     schizophrenic > schizophrenik  
@@ -95,7 +96,7 @@ examples of bad results from <4 letters :
     czar > kzar X (no cz) NO  
 ```
 
-### replace mid 'c' &gt; 'k'
+### mid 'c' &gt; 'k'
 
 ```text
 if word contains middle 'c > k'
@@ -115,7 +116,7 @@ if word contains middle 'c > k'
         
 ```
 
-### replace 'ch' &gt; k   
+### 'ch' &gt; k   
 
 ```text
 if word of 5+ letters contains mid 'ch' then 'ch>k'
@@ -133,14 +134,14 @@ if word contains 'a,i,e,o,u-ch' then do not replace 'ch>k'
     gazpacho > gazpakho  
 ```
 
-### replace 'why' with 'y'
+### 'why' &gt; 'y'
 
 ```text
 whysupportme > ysupportme  
 whyglendale > yglendale  
 ```
 
-### replace 'you' with 'u'
+### 'you' &gt; 'u'
 
 ```text
 youneedcake > uneedcake
@@ -152,7 +153,7 @@ no:
 
 ```
 
-#### replace 'are' &gt; 'r' in sentence
+### 'are' &gt; 'r' in sentence
 
 ```text
 kidsarecrazy > kidsrcrazy  
@@ -172,7 +173,7 @@ if word before 'are' is 'you', do not 'are>r'
   youaregood > yourgood (looks like a misspelling of you're)  
 ```
 
-### replace 'are' &gt; 'r'  
+### 'are' &gt; 'r' 
 
 ```text
 if word ends with 'are' and is 6+ letters/2+ syllables then 'are > r'
