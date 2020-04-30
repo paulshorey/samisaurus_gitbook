@@ -13,6 +13,7 @@
 
 ## Word Hacks
 
+* [Rules](word-hacks/rules.md)
 * [Poetic](word-hacks/poetic/README.md)
   * [\_\_ extra notes \_\_](word-hacks/poetic/untitled-11.md)
 * [Add Words!](word-hacks/make-fun-suffix.md)
