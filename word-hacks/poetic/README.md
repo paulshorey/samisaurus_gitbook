@@ -43,14 +43,19 @@ hocus pocus
 ### Repeated Fun Words
 
 ```text
-if word ends in 'oo','oom' or 'om','ho','um' and is one syllable, then repeat it twice
-   pom+pom
-   zoom+zoom
-   boom+boom
-   who+who
-   bum+bum
-   chum+chum
-   roo+roo
+if word ends in 'o', 'oo','oom' or 'om','ho','um', 'un', 'ee', 'ing' and is one syllable,
+then repeat it twice
+
+    pom+pom
+    zoom+zoom
+    boom+boom
+    who+who
+    bum+bum
+    chum+chum
+    roo+roo
+    woop+woop
+    fun+fun
+    bun+bun
 ```
 
 ### word rhymes
