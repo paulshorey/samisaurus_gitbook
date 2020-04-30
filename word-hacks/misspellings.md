@@ -218,51 +218,49 @@ if word is 3+ letters and does not end with 'eer' then... 'er > a'
     
 ```
 
-### replace suffix \(vowel + ser\) &gt; zer
+### vowel-ser &gt; vowel-zer
 
 ```text
-user > uzer  
-loser > lozer  
-wiser > wizer  
+if word ends in vowel-'ser' then replace with 'zer'
+    user > uzer  
+    loser > lozer  
+    wiser > wizer  
 
----follows the rule of needing a vowel  
-guesser > gueszer X NO (double ss)  
-worser > worzer X NO (r+ser)  
+no:  
+    guesser > gueszer X NO (double ss)  
+    worser > worzer X NO (r+ser)  
 ```
 
-### s &gt; z \(dont do words less than 4 letters, dont do words that have a double s at the end\)
+### s &gt; z 
 
 ```text
-storez  
-heartz  
-kitchenz  
-emojiz  
-khakiz  
-daiquiris  
-kulfiz  
+if word is 4+ letters and ends with single 's' then s > z
+    storez  
+    heartz  
+    kitchenz  
+    emojiz  
+    khakiz  
+    daiquiris  
+    kulfiz
+    deskz
+    rampz
+    bats > batz  
+    apps > appz  
+    bets > betz  
+    begs > begz  
+    arms > armz  
+    arks > arkz  
+    acts > actz  
+    adios > adioz  
+    acorns > acornz  
+    aims > aimz  
+    axes > axez 
 
----avoid---- ?  
-
-'sis' at the end because it turns into 'siz' and that is just ugly and looks like a misspelling ?  
-hypothesiz  
-metamorphisiz  
-hypnosiz  
-
-
-deskz       X no if "sks"  (i like these two)  
-rampz       X no if "mps"  
-
-bats > batz  
-apps > appz  
-bets > betz  
-begs > begz  
-arms > armz  
-arks > arkz  
-acts > actz  
-adios > adioz  
-acorns > acornz  
-aims > aimz  
-axes > axez  
+no:
+    if word ends with 'sis' then do not s>z
+    hypothesiz  
+    metamorphisiz  
+    hypnosiz  
 ```
 
 ## 
