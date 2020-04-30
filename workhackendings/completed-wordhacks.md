@@ -1677,9 +1677,10 @@ songy songie
 ## ify
 
 ```text
-expensify.com       expens (-e+i) (fy)
-suspensify.com
-dispensify.com
+if word ends in 'ense' then drop last 'e' and append 'ify'
+    expensify.com       expens (-e+i) (fy)
+    suspensify.com
+    dispensify.com
 ```
 
 ## chy
