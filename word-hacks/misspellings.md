@@ -175,58 +175,47 @@ airfare > airfr
 earthenware> earthenwr  
 ```
 
-### replace suffix \(er\) &gt; a
+###  er &gt; a
 
 ```text
-pow(er) pow"a"  
-storm(er) storm"a"  
-flow(er) flow"a"  
+if word is 3+ letters and does not end with 'eer' then... 'er > a'
 
-6 - Yes  
+    pow(er) pow"a"  
+    storm(er) storm"a"  
+    flow(er) flow"a"  
+    
+    6 - Yes
+    
+    binger > binga  
+    antler > antla  
+    beaver > beava  
+    backer > backa  
+    barter > barta  
+    answer > answa 
+    walker > walka  
+    
+    7 - Yes  
+    adapter > adapta  
+    assumer > assuma  
+    admirer > admira  
+    
+    8 - Yes  
+    analyser > analysa  
+    accepter > accepta  
+    affirmer > affirma  
+    
+    9 - Yes  
+    appetizer > appetiza  
+    bookmaker > bookmaka  
+    amplifier > amplifia  
+    
 
-binger > binga  
-antler > antla  
-beaver > beava  
-backer > backa  
-barter > barta  
-answer > answa < weird  
-walker > walka  
-
-7 - Yes  
-adapter > adapta  
-assumer > assuma  
-admirer > admira  
-
-8 - Yes  
-analyser > analysa  
-accepter > accepta  
-affirmer > affirma  
-
-9 - Yes  
-appetizer > appetiza  
-bookmaker > bookmaka  
-amplifier > amplifia  
-
-
----- how can this go wrong? ----  
-
-3 - NO  
-her > ha  
-
-4 - NO  
-peer > pea  
-deer > dea  
-
-5 - IDK  
-anger > anga  
-asker > aska  
-boxer > boxa  
-curer > cura  
-biker > bika  
-alter > alta  
-cheer > chea  
-steer > stea (avoid words with 'ee' double  
-)  
+    no : 
+    her > ha  
+     
+    peer > pea  
+    deer > dea  
+    
 ```
 
 ### replace suffix \(vowel + ser\) &gt; zer
