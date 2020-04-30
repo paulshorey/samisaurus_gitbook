@@ -181,6 +181,14 @@ great+chip (s)
 love+mug (s)
 lovely+hat (s)
 pretty+cake(s)
+
+best
+nifty
+super
+good
+top
+great
+
 ```
 
 ## name adds
