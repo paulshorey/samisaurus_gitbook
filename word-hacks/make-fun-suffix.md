@@ -1,5 +1,33 @@
 # Add Words!
 
+## 'hello' 
+
+```text
+Add 'hello' to 3 letter nouns/pronouns
+
+1 syll:
+    hello you
+    hello car
+    hello sea
+    hello dog
+    hello bread
+    hello rose
+
+
+2 syll: [ending in y and i]
+    hello baby
+    hello kitty
+    hello kiwi
+    hello copper
+
+2 syll adjectives:
+
+    hello pretty
+    hello lovely
+
+
+```
+
 ## add "101"
 
 ```text
