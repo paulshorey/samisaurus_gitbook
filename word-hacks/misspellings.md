@@ -1,6 +1,6 @@
 # Replacements&Mispellings
 
-### ending y/ie/ee/i
+### y/ie/ee/i swap ends
 
 ```text
 rookie > rookee > rooky > rooki  
