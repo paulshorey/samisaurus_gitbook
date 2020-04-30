@@ -148,7 +148,7 @@ yourhaircut > urhaircut?
 youarebeautiful > uarebeautiful  > urbeautiful
 ```
 
-### replace 'are' with 'r'
+### replace 'are' &gt; 'r' in sentence
 
 ```text
 kidsarecrazy > kidsrcrazy  
@@ -156,23 +156,27 @@ areyoulonely > ryoulonely
 whatareyoudoing > whatryoudoing  
 whenareyou > whenryou  
 
+no: 
 
-----avoid-----  
-wherearemykeys > wherermykeys  (doesnt work - cause theres an e before the replacement of r, making it look like a word 'wherer')  
-
-whoareyou > whoryou (this looks like the word whore)  
-
-youaregood > yourgood (looks like a misspelling of you're)  
+if there is an 'e' before the word 'are' then do not 'are>r'
+  wherearemykeys > wherermykeys  
+   
+if word before 'are' ends with 'o', do not 'are>r' 
+  whoareyou > whoryou (this looks like the word whore)
+  
+if word before 'are' is 'you', do not 'are>r'
+  youaregood > yourgood (looks like a misspelling of you're)  
 ```
 
-### replace 'are' with 'r' are end of a word \(needs to have at least 6 letters\)
+### replace 'are' &gt; 'r'  
 
 ```text
-caviare > cavir  
-enamelware > enamelwr  
-foursquare > foursqur  
-airfare > airfr  
-earthenware> earthenwr  
+if word ends with 'are' and is 6+ letters/2+ syllables then 'are > r'
+    caviare > cavir  
+    enamelware > enamelwr  
+    foursquare > foursqur  
+    airfare > airfr  
+    earthenware> earthenwr  
 ```
 
 ###  er &gt; a
