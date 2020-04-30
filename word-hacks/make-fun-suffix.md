@@ -122,9 +122,28 @@ journalize+me
 entertain+me.cam
 ```
 
-## prepend 'we' + root verb
+## verb + 'it'
 
 ```text
+run it
+feel it
+sing it
+do it
+perform it
+import it
+dance it
+annhialate it, 
+```
+
+## 'i' / 'we' + root verb
+
+```text
+iwrite
+irun
+icook
+ibedazzle
+ifinance
+
 we + jump
 we + love 
 we + workout
@@ -140,6 +159,16 @@ i love + spiders.blog
 
 we love glasses.club
 we love pizza > welove.pizza
+```
+
+## 'get' + noun
+
+```text
+getlamps
+getpizza
+getart
+getfinance
+getrecipes 
 ```
 
 ## 'love' / 'heart' + noun
@@ -173,7 +202,7 @@ miyazaki club.film
 shibainu+club.pet
 ```
 
-## positive mods + noun / noun\(s\)
+## short positive mods + noun / noun\(s\)
 
 ```text
 good+fella (s)
