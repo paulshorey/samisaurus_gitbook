@@ -182,12 +182,12 @@ love+mug (s)
 lovely+hat (s)
 pretty+cake(s)
 
-best
-nifty
-super
-good
-top
-great
+best boy
+nifty baby
+super lamp
+good shoe
+top glamping
+great toys
 
 ```
 
