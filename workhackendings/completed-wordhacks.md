@@ -178,7 +178,7 @@ m
     unless word ends with 'oom' then append only with 'y'
 
 n 
-    if word ends with 'un', 'an' then append with 'ny'
+    if word ends with 'un', 'an', 'on', 'in' then append with 'ny'
 
         fan+ny
         bun+ny
