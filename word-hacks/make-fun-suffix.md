@@ -19,13 +19,23 @@ Add 'hello' to 3 letter nouns/pronouns
     hello kitty
     hello kiwi
     hello copper
+    
+3 syll:
+    hello canopy
+    hello porcupine
+    hello monstera
 
 2 syll adjectives:
 
     hello pretty
     hello lovely
-
-
+    hello handsome
+    
+3 syll adjectives:
+    
+    hello fantastic
+    hello beautiful
+    hello depression
 ```
 
 ## add "101"
