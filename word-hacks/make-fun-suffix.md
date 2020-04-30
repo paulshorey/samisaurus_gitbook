@@ -1,6 +1,6 @@
 # Add Words!
 
-## 'hello' 
+## 'hello' +
 
 ```text
 Add 'hello' to 3 letter nouns/pronouns
@@ -38,7 +38,7 @@ Add 'hello' to 3 letter nouns/pronouns
     hello depression
 ```
 
-## add "101"
+## + "101"
 
 ```text
 if phrase contains interrogative word, and noun then 
@@ -50,6 +50,27 @@ extract the noun/verb word and add 101 to it
 "what is greed" > greed101
 "how to plant trees" > trees101 OR plant101
 "who is jesus?" > jesus101
+```
+
+## 'about' +
+
+```text
+about + noun(s) - maybe connect to words about information/interrogative
+
+    about love
+    about dove
+    
+    about islam
+    about totoro
+    
+    about starwars
+
+about + gerund
+
+    about cooking
+    about running
+    about dancing
+    about financing
 ```
 
 ## add 'up'
