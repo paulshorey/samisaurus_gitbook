@@ -143,12 +143,16 @@ whyglendale > yglendale
 ### replace 'you' with 'u'
 
 ```text
-youneedcake > uneedcake  
-yourhaircut > urhaircut?  
-youarebeautiful > uarebeautiful  > urbeautiful
+youneedcake > uneedcake
+youarebeautiful > urbeautiful
+
+no: 
+    if word is 'your', do not 'you>u'
+        yourhaircut > urhaircut  
+
 ```
 
-### replace 'are' &gt; 'r' in sentence
+#### replace 'are' &gt; 'r' in sentence
 
 ```text
 kidsarecrazy > kidsrcrazy  
