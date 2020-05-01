@@ -20,7 +20,6 @@
 * [Replacements&Mispellings](word-hacks/misspellings.md)
 * [3/4 letter "root", add suffix](word-hacks/3-4-letter-root-add-suffix.md)
 * [ideas](word-hacks/append.md)
-* [Change any part of speech to adjective + noun](word-hacks/change-any-part-of-speech-to-adjective-+-noun.md)
 
 ## WorkHackEndings
 
