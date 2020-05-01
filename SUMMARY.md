@@ -18,10 +18,8 @@
   * [\_\_ extra notes \_\_](word-hacks/poetic/untitled-11.md)
 * [Add Words!](word-hacks/make-fun-suffix.md)
 * [Replacements&Mispellings](word-hacks/misspellings.md)
-* [remove vowels](word-hacks/remove-vowels.md)
 * [3/4 letter "root", add suffix](word-hacks/3-4-letter-root-add-suffix.md)
-* [append](word-hacks/append.md)
-* [prepend](word-hacks/prepend.md)
+* [ideas](word-hacks/append.md)
 * [Change any part of speech to adjective + noun](word-hacks/change-any-part-of-speech-to-adjective-+-noun.md)
 
 ## WorkHackEndings
