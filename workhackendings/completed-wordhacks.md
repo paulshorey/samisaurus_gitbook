@@ -1044,7 +1044,7 @@ NO
     a,e,f,j,i,l,o,q,r,s,u,w,y
 ```
 
-## ica
+## ica / ico
 
 ```text
 YES 
