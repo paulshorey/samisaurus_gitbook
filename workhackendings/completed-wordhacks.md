@@ -110,6 +110,19 @@ y
         jiffy > jiffo
 ```
 
+#### if end in 'd', 't', 'p' :
+
+```text
+food(lio)
+vid(lio)
+med(lio)
+
+fit(lio)
+bot(lio)
+
+ship(lio)
+```
+
 ## y
 
 ~ must add to root word only
