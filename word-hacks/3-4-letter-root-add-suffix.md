@@ -1,21 +1,5 @@
 # 3/4 letter "root", add suffix
 
-### if ends in one consonant:
-
-```text
-root(ia)  
-root(io)  
-root(ico)  
-```
-
-### if end in "d":
-
-```text
-food(lio)  
-vid(lio)  
-med(lio)  
-```
-
 ### if ends in two consonants:
 
 ```text
