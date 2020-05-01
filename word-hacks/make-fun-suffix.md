@@ -230,3 +230,33 @@ great toys
     hello + razeena.blog
 ```
 
+## noun + 'container'
+
+```text
+flower "box"    (3, 5, 7 letter noun)
+pizza "pod"
+fun "box"
+
+hair "box"      (4 letter noun)
+rain "pod"
+
+tech "cube"     (4 letter noun)
+word "cube"
+
+techy "cloud"   (if tech word)
+
+pet "parade"    (3 letter noun)
+
+food "fest"     (3+ letter noun)
+
+blanket "port"  (6 letter noun)
+curtain "port"
+
+____ "world"
+____ "planet"
+____ "dream"
+____ "place"
+____ "nation"
+____ "house"
+```
+
