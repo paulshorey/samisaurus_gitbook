@@ -919,7 +919,7 @@ y
         jiffy > jiffio
 ```
 
-## ly
+## ly \(done\)
 
 ```text
 YES
@@ -987,7 +987,7 @@ Yes BUT...
             guy+ly
 ```
 
-## us
+## us \(done\)
 
 ```text
 YES
@@ -1559,7 +1559,7 @@ if word ends in 'ex', 'ax', 'ix', 'orm', 'port' then append 'tion'
     import > import+ation
 ```
 
-## ing
+## ing \(done\)
 
 ```text
 (only append after nouns & verbs)
@@ -1581,7 +1581,7 @@ if word ends with silent e then drop e and append 'ing'
     frizzle > frizzling
 ```
 
-## ed
+## ed \(done\)
 
 ```text
 (only append after verbs)
@@ -1591,7 +1591,7 @@ if word ends in just one letter then append one more of that letter and 'ed'
 
     clap+ped
 
-if word ends in double letters or [w,x,y,z] then append 'ing'
+if word ends in double letters or [w,x,y,z] then append 'ed'
     miss+ed
     buzz+ed
 
@@ -1687,7 +1687,7 @@ if word is one syllable noun of > 3 letters then append 'y' or 'ie'
 songy songie
 ```
 
-## ify
+## ify \(done\)
 
 ```text
 if word ends in 'ense' then drop last 'e' and append 'ify'
