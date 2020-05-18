@@ -1,6 +1,6 @@
 # Completed WordHacks : Endings
 
-## a
+## a \(done\)
 
 ~ use root words only & words should never be less than 3 letters or more than 6 letters when root words are overridden 
 
@@ -8,7 +8,7 @@
 
 ```text
 YES
-b,c,d,e,f,h,j,i,k,q,s,u,v,x,z
+b,c,d,f,h,j,i,k,q,s,u,v,x,z, eX
 
 NO
 a,o,y,  
@@ -48,7 +48,7 @@ w
         paw+a - no
 ```
 
-## o
+## o \(done\)
 
 ```text
 YES
@@ -66,7 +66,7 @@ a
         extra > extr+o
         yoga > yog+o
         aqua > aquo
-e
+eX
     if word ends in 'we' then do not append 'o'
         awe > aweo - no 
 
@@ -129,7 +129,7 @@ ship(lio)
 
 ```text
 YES
-    f,j,l,q,x,z
+    f,j,l,q,x,z,
 
 
 NO
@@ -223,7 +223,7 @@ s
         bliss+y
         sass+y
         
-    if word ends with 'ees' then append 'y'
+   X if word ends with 'ees' then append 'y'
         trees+y
         bees+y
 t
@@ -238,7 +238,7 @@ t
 
         exhibit+y - yes
 
-w
+wX
     if word ends with 'aw' then do not append 'y'
 
         gnaw+y
@@ -822,11 +822,11 @@ y
         jiffy > jiffia
 ```
 
-## io
+## io \(done\)
 
 ```text
 YES
-c,d,f,j,i,k,m,p,q,t,v,x,z
+c,d,f,j,i,k,m,p,q,t,v,x,z,
 
 
 NO
@@ -975,13 +975,13 @@ Yes BUT...
 
             grow+ly
             pow+ly
-    y
-        if word ends in consonant-y then drop 'y' and append 'ily'
+    Xy
+        Xif word ends in consonant-y then drop 'y' and append 'ily'
 
             crazy > craz+ily
             jumpy > jump+ily
 
-        if word ends in vowel-y then append 'ly' as normal
+        Xif word ends in vowel-y then append 'ly' as normal
 
             joy+ly
             guy+ly
