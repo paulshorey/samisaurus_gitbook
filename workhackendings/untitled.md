@@ -22,7 +22,6 @@ All the endings
     
     ology -
 
-
     ica -
     ism -
     ist -

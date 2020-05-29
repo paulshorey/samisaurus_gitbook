@@ -23,6 +23,5 @@
 ## WorkHackEndings
 
 * [Completed WordHacks : Endings](workhackendings/completed-wordhacks.md)
-* [WordHack TestList](workhackendings/wordhack-testlist.md)
 * [All The Endings](workhackendings/untitled.md)
 
