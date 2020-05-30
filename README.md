@@ -8,7 +8,14 @@
 [https://abbreviations.yourdictionary.com/articles/list-of-commonly-used-abbreviations.html](https://abbreviations.yourdictionary.com/articles/list-of-commonly-used-abbreviations.html)  
 [https://geekflare.com/tech-abbreviations/](https://geekflare.com/tech-abbreviations/) \(ACRONYMS for Tech\)
 
-Months  
+business - biz  
+design - des  
+development - dev  
+user interface - ui  
+user experience - ux  
+financial, finance - fin  
+geology,gelogical - geo  
+biotech,biology,biological - bio  
 January - Jan  
 February - Feb  
 March - Mar  
@@ -20,18 +27,14 @@ August - Aug
 September - Sep,Sept  
 October - Oct  
 November - Nov  
-December - Dec
-
-Days  
+December - Dec  
 Sunday - Sun  
 Monday - Mon  
 Tuesday - Tu, Tue, Tues  
 Wednesday - Wed  
 Thursday - Th,Thu,Thur,Thurs  
 Friday – Fri  
-Saturday – Sat
-
-Times  
+Saturday – Sat  
 second – sec  
 minute – min  
 hour – hr,h  
@@ -40,8 +43,7 @@ month - mo
 year - yr  
 century - cent  
 before christ - BC,BC,BCE  
-anno Domini - AD
-
+anno Domini - AD  
 history - hist  
 approximately - approx  
 appoitment - appt  
@@ -67,7 +69,7 @@ different - diff
 administration - admin  
 biology - bio  
 biology - bio  
-company - comp,co  
+company - com,co  
 capital - cap  
 cellphone - cell  
 until - till  
@@ -152,10 +154,8 @@ captain - capt
 altitude - alt  
 calorie - cal  
 design - des  
-domain - dom
-
-sleep - zzz
-
+domain - dom  
+sleep - zzz  
 romantic - rom  
 comedy - com  
 science - sci  
