@@ -11,6 +11,10 @@
 * [Extension Suggestions](untitled-10.md)
 * [Lists of Helping Words](lists-of-helping-words.md)
 
+## content notes
+
+* [Untitled](content-notes/untitled.md)
+
 ## Word Hacks
 
 * [Rules](word-hacks/rules.md)
